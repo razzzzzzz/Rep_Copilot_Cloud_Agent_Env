@@ -40,4 +40,3 @@ Beispiel_cloud_agent_environment/
 ---
 
 **Tipp:** Du kannst die Workflow-Datei anpassen, um weitere Schritte, Umgebungsvariablen oder Services (z.B. Datenbank) hinzuzufügen.
-
